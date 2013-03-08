@@ -1,0 +1,11 @@
+/**
+ * Admin
+ **/
+.nav-collapse ul.nav li{border-right:#ddd 1px solid;}
+
+
+/*
+.navbar .nav li.dropdown.open > .dropdown-toggle, .navbar .nav li.dropdown.active > .dropdown-toggle, .navbar .nav li.dropdown.open.active > .dropdown-toggle{
+	border-top:2px solid #5380d3;
+}
+*/
