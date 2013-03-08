@@ -28,7 +28,7 @@ Design for learning purpose
 
 This is a GPL theme that is available on GitHub:
 
-https://github.com/hasanvidya/theme_bootstrap_alice
+https://github.com/vidyamantra/theme_bootstrap_alice
 
 Design By
 
