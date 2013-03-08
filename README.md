@@ -34,5 +34,5 @@ Design By
 
 Author: 
 Fakrul hasan 
-Contact: Hasan@vidyamantra.com 
+Contact: hasan@vidyamantra.com 
 Website: www.vidyamantra.com
