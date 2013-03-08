@@ -169,7 +169,6 @@ echo $OUTPUT->doctype() ?>
 <script src="<?php echo $CFG->wwwroot;?>/theme/bootstrap_alice/js/bootstrap-collapse.js"></script>
 <script src="<?php echo $CFG->wwwroot;?>/theme/bootstrap_alice/js/bootstrap-dropdown.js"></script>
 <script src="<?php echo $CFG->wwwroot;?>/theme/bootstrap_alice/js/jquery.js"></script>
-<script src="<?php echo $CFG->wwwroot;?>/theme/bootstrap_alice/js/bootstrap-tab.js"></script> 
 <script src="<?php echo $CFG->wwwroot;?>/theme/bootstrap_alice/js/bootstrap.min.js"></script>
 
 
