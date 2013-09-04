@@ -33,6 +33,6 @@ https://github.com/vidyamantra/theme_bootstrap_alice
 Design By
 
 Author: 
-Fakrul hasan 
+Fakrul hasan ji
 Contact: hasan@vidyamantra.com 
 Website: www.vidyamantra.com
